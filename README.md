@@ -2,6 +2,9 @@
 
 Esta es una aplicación de prueba del curso de introducción a React.
 
+La aplicación es básicamente un TODO app que permite agregar, editar, buscar
+y eliminar TODO's.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
