@@ -1,8 +1,13 @@
 import React from "react";
 
 function CreateTodoButton(){
+    
+    function onCreateTodo () {
+        console.log("Crear TODO");
+    }
+
     return(
-        <button>+</button>
+        <button onClick={onCreateTodo}>+</button>
     );
 }
 
